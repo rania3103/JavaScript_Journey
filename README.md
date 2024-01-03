@@ -44,6 +44,9 @@ greetUser("Learner");
 <br><br>
 <div align="center">
   <img src="./img/printinfo_js.png" width="100%">
+</div><br><br>
+<div align="center">
+  <img src="./img/choice.png" width="100%">
 </div>
 
 ## Authors
