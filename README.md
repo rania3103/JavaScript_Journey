@@ -37,9 +37,11 @@ greetUser("Learner");
 <div align="center">
   <img src="./img/counter_js.png" width="100%">
 </div>
+<br><br>
 <div align="center">
   <img src="./img/random_js.png" width="100%">
 </div>
+<br><br>
 <div align="center">
   <img src="./img/printinfo_js.png" width="100%">
 </div>
