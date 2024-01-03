@@ -1,0 +1,23 @@
+#count_label{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#btn_container{
+    text-align: center;
+}
+.btns{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    color: azure;
+    background-color: darkorange;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+.btns:hover{
+    background-color: azure;
+    color:darkorange;
+}
