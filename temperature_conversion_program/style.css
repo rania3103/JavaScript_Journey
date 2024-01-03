@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    color:cornflowerblue;
+}
+form{
+    background-color:lavenderblush;
+    width: 30rem;
+    margin: auto;
+    border-radius: 10px;
+    color:cornflowerblue;
+}
+#temp{
+    padding: 5px;
+    border-radius: 5px;
+    border-color: deeppink;
+    outline-color: deeppink;
+}
+#btn{
+    background-color: deeppink;
+    color: azure;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    border-color: deeppink;
+    transition: background-color 0.75s;
+}
+#btn:hover{
+    background-color: azure;
+    color: deeppink;
+    cursor: pointer;
+}
+#result{
+    color:cornflowerblue;
+    font-size: 1.5em;
+}
