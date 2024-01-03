@@ -48,6 +48,9 @@ greetUser("Learner");
 <div align="center">
   <img src="./img/choice.png" width="100%">
 </div>
+<div align="center">
+  <img src="./img/temp_js.png" width="100%">
+</div>
 
 ## Authors
 
