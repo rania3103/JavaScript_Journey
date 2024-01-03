@@ -10,7 +10,6 @@ JavaScript is a versatile programming language that powers the dynamic behavior 
   
 - **Projects:** Engage in hands-on projects to apply your knowledge and build real-world applications.
 
-- **Resources:** Find useful links, tutorials, and documentation to enhance your learning journey.
 
 ## Table of Contents
 
