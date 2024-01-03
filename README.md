@@ -16,8 +16,6 @@ JavaScript is a versatile programming language that powers the dynamic behavior 
 
 1. [Code Snippets](#code-snippets)
 2. [Projects](#projects)
-3. [Resources](#resources)
-4. [Contributing](#contributing)
 
 ## Code Snippets
 
@@ -32,3 +30,20 @@ const greetUser = (name) => {
 greetUser("Learner");
 
 // Feel free to add more code snippets!
+```
+
+## Projects
+
+<div align="center">
+  <img src="./img/counter_js.png" width="100%">
+</div>
+<div align="center">
+  <img src="./img/random_js.png" width="100%">
+</div>
+<div align="center">
+  <img src="./img/printinfo_js.png" width="100%">
+</div>
+
+## Authors
+
+- [@rania3103](https://www.github.com/rania3103)
