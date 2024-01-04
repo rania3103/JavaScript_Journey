@@ -1,6 +1,6 @@
 # **JavaScript Learning Repository**
 
-Welcome to my JavaScript learning repository! 🚀 In this repository, you'll find a curated collection of resources, code snippets, and projects to help you grasp the fundamentals and advance your skills in JavaScript.
+Welcome to my JavaScript learning repository! 🚀 In this repository, you'll find  code snippets, and projects to help you grasp the fundamentals and advance your skills in JavaScript.
 
 ## Overview
 
