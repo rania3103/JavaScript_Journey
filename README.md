@@ -50,6 +50,9 @@ greetUser("Learner");
 <div align="center">
   <img src="./img/temp_js.png" width="100%">
 </div>
+<div align="center">
+  <img src="./img/dice_roller.png" width="100%">
+</div>
 
 ## Authors
 
