@@ -53,6 +53,9 @@ greetUser("Learner");
 <div align="center">
   <img src="./img/dice_roller.png" width="100%">
 </div>
+<div align="center">
+  <img src="./img/clock.png" width="100%">
+</div>
 
 ## Authors
 
