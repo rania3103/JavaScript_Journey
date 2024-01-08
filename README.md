@@ -28,7 +28,6 @@ const greetUser = (name) => {
 
 greetUser("Learner");
 
-// Feel free to add more code snippets!
 ```
 
 ## Projects
